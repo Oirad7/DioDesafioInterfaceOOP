@@ -1,6 +1,9 @@
 ## Resposta para desafio Controle de Fluxo do Bootcamp Santander Backend Java
 ### autor: Dario Moura
 
+### diagrama de classes (pasta documentacao)
+![Diagrama de classes](/documentacao/iphone.drawio.png)
+
 ### Descrição do desafio
 
 DIO - Trilha Java Básico
